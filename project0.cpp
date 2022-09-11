@@ -17,4 +17,8 @@ int main(){
 }
 //here is a comment for my new branch!
 //Omg here is another comment for the new branch!
+<<<<<<< HEAD
 // ...and this is for master only
+=======
+//time for different comments. this one goes on the new branch
+>>>>>>> new_branch
